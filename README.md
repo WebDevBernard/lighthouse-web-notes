@@ -1,6 +1,5 @@
-Bernard's Notes
-# This is an H1 header
-##### This is an H6 header
+# Bernard's Notes
+
 ## Summary
 
 This repository contains all the notes taken by [Bernard](https://github.com/bernard9) for the Lighthouse Labs Web Development Bootcamp.
