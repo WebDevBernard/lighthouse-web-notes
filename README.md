@@ -9,5 +9,3 @@ This repository contains all the notes taken by [Bernard](https://github.com/ber
 * [Week 1](/Week_1)
   * [Day 1](/Week_1/Day_1)
 
-
-
